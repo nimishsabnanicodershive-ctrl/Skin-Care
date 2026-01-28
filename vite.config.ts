@@ -31,6 +31,8 @@ export default defineConfig(({ mode }) => {
         }
       }
     },
-    base: './'
+    base: './',
+    // Handle client-side routing for SPA
+    appType: 'spa'
   };
 });
