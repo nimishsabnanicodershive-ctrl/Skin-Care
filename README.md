@@ -1,4 +1,4 @@
-# Lumina Skin Care
+# Skincare
 
 A modern personal care e-commerce application built with React, TypeScript, and Vite.
 

@@ -29,7 +29,7 @@ const Navbar: React.FC<NavbarProps> = ({ cartCount, user, onLogout }) => {
         <div className="flex justify-between h-20 items-center">
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
-            <Link to="/" className="text-3xl font-bold text-stone-800 serif tracking-tight">LUMINA</Link>
+            <Link to="/" className="text-3xl font-bold text-stone-800 serif tracking-tight">SKINCARE</Link>
           </div>
           
           {/* Desktop Navigation */}
